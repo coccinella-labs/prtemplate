@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/prtemplate/main/.github/assets/thumbnail.png" alt="prtemplate" width="100%">
+</p>
+
 # small-pr-template
 
 A lightweight, opinionated Pull Request template for keeping PRs small,
