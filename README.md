@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/prtemplate/main/.github/assets/thumbnail.png" alt="prtemplate" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/prtemplate/main/.github/assets/thumbnail.png" alt="prtemplate" width="100%">
 </p>
 
 # small-pr-template
